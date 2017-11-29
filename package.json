@@ -1,0 +1,16 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "A command line node app to process a limited set of requests",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisCode6/LiriBot"
+  },
+
+  "homepage": "https://github.com/ChrisCode6/LiriBot",
+  },
+
